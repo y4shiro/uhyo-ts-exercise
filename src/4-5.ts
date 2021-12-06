@@ -23,5 +23,5 @@ function f45() {
   test({ baz: true });
 
   // エラー例
-  test({});
+  // test({});
 }
